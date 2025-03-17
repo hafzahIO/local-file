@@ -1,3 +1,6 @@
 Banana
 Apple
 Date
+Bean 1
+Bean 2
+Bean 3
